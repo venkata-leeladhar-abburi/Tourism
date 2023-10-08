@@ -1,0 +1,57 @@
+    .bg-whole-container
+    {
+        background-image: url("IMG_20230312_070908.jpg");
+        background-size: cover;
+        width: 100vw;
+        height: 100vh;
+    }
+    .h1{
+        color: blue;
+    }
+    .card-container{
+        border-top-left-radius: 15px;
+        border-top-right-radius: 15px;
+        text-align: center;
+        background-color:white;
+    }
+
+
+    .bg-background{
+        background-image: url("IMG_20230312_070908.jpg");
+        background-size: cover;
+        height: 300vh;
+        width: 100vw;
+    }
+    .bg-head2{
+        color: black;
+        padding: 10px;
+    }
+    .bg-card2{
+        background-color: white;
+        margin:16px;
+        padding: 10px;
+        border-radius: 10px;
+    }
+    .head1{
+        color:blue;
+        font-weight: bold;
+        font-family: "Roboto";
+    }
+
+    
+    
+    .back-image{
+        background-image: url("seabg.png");
+        background-size:cover ;
+        height: 150vh;
+        width: 100vw;
+    }
+    .box{
+        margin: 40px;
+    }
+    .head{
+        padding-left: 40px;
+    }
+    .matter{
+        padding-top: 30px;
+    }
